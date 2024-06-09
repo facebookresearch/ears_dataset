@@ -24,6 +24,7 @@ If you use the dataset or any derivative of it, please cite our [Paper](https://
 
 ## Download EARS Dataset
 
+### using bash
 ```
 for X in $(seq -w 001 107); do
   curl -L https://github.com/facebookresearch/ears_dataset/releases/download/dataset/p${X}.zip -o p${X}.zip
@@ -32,13 +33,26 @@ for X in $(seq -w 001 107); do
 done
 ```
 
+### using python
+run the [EARS download script](https://github.com/facebookresearch/ears_dataset/blob/main/download_ears.py)
+```
+python download_ears.py
+```
+
 ## Download Blind Testset with Noisy Speech
 
+### using bash
 ```
 curl -L https://github.com/facebookresearch/ears_dataset/releases/download/blind_testset/blind_testset.zip -o blind_testset.zip
 mkdir blind_testset
 unzip blind_testset.zip -d blind_testset
 rm blind_testset.zip
+```
+
+### using python
+run the [blind testset download script](https://github.com/facebookresearch/ears_dataset/blob/main/download_blind_testset.py)
+```
+python download_blind_testset.py
 ```
 
 # License
