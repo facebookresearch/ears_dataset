@@ -2,7 +2,7 @@
 
 We release the **E**xpressive **A**nechoic **R**ecordings of **S**peech (EARS) dataset.
 
-If you use the dataset or any derivative of it, please cite our [Paper](https://arxiv.org/)
+If you use the dataset or any derivative of it, please cite our [Paper](https://arxiv.org/abs/2406.06185)
 
 ```
 @inproceedings{richter2024ears,
