@@ -13,6 +13,8 @@ If you use the dataset or any derivative of it, please cite our [Paper](https://
 }
 ```
 
+For audio sample, please visit the [project page](https://sp-uhh.github.io/ears_dataset/).
+
 ## Highlights
 * **100 h** of speech data from **107 speakers**
 * high-quality recordings at **48 kHz** in an anechoic chamber
