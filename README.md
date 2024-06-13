@@ -57,5 +57,10 @@ run the [blind testset download script](https://github.com/facebookresearch/ears
 python download_blind_testset.py
 ```
 
+## Statistics and Transcripts
+The speaker statistics (age, ethnicity, gender, weight, height, native language) for the 107 speakers are collected in [speaker_statistics.json](https://github.com/facebookresearch/ears_dataset/blob/main/speaker_statistics.json).
+
+Transcripts of the reading portions of the dataset are available in [transcripts.json](https://github.com/facebookresearch/ears_dataset/blob/main/transcripts.json).
+
 # License
 The code and dataset are released under [CC-NC 4.0 International license](https://github.com/facebookresearch/ears_dataset/blob/main/LICENSE).
