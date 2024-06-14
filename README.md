@@ -6,7 +6,7 @@ If you use the dataset or any derivative of it, please cite our [Paper](https://
 
 ```
 @inproceedings{richter2024ears,
-  title={EARS: An Anechoic Fullband Speech Dataset Benchmarked for Speech Enhancement and Dereverberation},
+  title={{EARS}: An Anechoic Fullband Speech Dataset Benchmarked for Speech Enhancement and Dereverberation},
   author={Richter, Julius and Wu, Yi-Chiao and Krenn, Steven and Welker, Simon and Lay, Bunlong and Watanabe, Shinjii and Richard, Alexander and Gerkmann, Timo},
   booktitle={Interspeech},
   year={2024}
