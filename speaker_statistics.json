@@ -225,7 +225,7 @@
     },
     "p029": {
         "age": "26-35",
-        "ethnicity": "black or african american, white or caucasian",
+        "ethnicity": "black or african american",
         "gender": "female",
         "weight": "120 - 140 lbs",
         "native language": "american english",
@@ -241,7 +241,7 @@
     },
     "p031": {
         "age": "18-25",
-        "ethnicity": "hispanic or latino, white or caucasian",
+        "ethnicity": "hispanic or latino",
         "gender": "male",
         "weight": "180 - 200 lbs",
         "native language": "american english",
@@ -409,7 +409,7 @@
     },
     "p052": {
         "age": "18-25",
-        "ethnicity": "black or african american, hispanic or latino",
+        "ethnicity": "black or african american",
         "gender": "female",
         "weight": "120 - 140 lbs",
         "native language": "american english",
@@ -489,7 +489,7 @@
     },
     "p062": {
         "age": "18-25",
-        "ethnicity": "hispanic or latino, white or caucasian",
+        "ethnicity": "hispanic or latino",
         "gender": "female",
         "weight": "140 - 160 lbs",
         "native language": "american english",
@@ -561,7 +561,7 @@
     },
     "p071": {
         "age": "18-25",
-        "ethnicity": "black or african american, white or caucasian",
+        "ethnicity": "black or african american",
         "gender": "male",
         "weight": "140 - 160 lbs",
         "native language": "american english",
