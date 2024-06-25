@@ -13,7 +13,7 @@ If you use the dataset or any derivative of it, please cite our [Paper](https://
 }
 ```
 
-For audio samples, visit the [project page](https://sp-uhh.github.io/ears_dataset/).
+For audio samples or scripts to generate the speech enhancement benchmarks, please visit the [project page](https://sp-uhh.github.io/ears_dataset/).
 
 ## Highlights
 * **100 h** of speech data from **107 speakers**
